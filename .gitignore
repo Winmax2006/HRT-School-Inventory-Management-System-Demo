@@ -1,0 +1,21 @@
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Dependencies & Build
+node_modules/
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary
+temp_check/

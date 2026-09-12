@@ -1,2 +1,2 @@
-# HRT-School-Inventory-Management-System-Demo
-HRT School Inventory Management System Demo  ระบบบริหารคลังพัสดุโรงเรียน  (ทดลองใช้)
+# HRT-School-Inventory-Management-System
+HRT School Inventory Management System
